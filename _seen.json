@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "url": "https://grafana.com/whats-new/2026-06-03-control-which-k6-version-runs-your-synthetic-monitoring-checks/",
+    "added": "2026-06-09"
+  },
+  {
+    "url": "https://github.com/allure-framework/allure3/releases/tag/v3.10.0",
+    "added": "2026-06-09"
+  },
+  {
+    "url": "https://github.com/grafana/k6/releases/tag/v1.8.0",
+    "added": "2026-06-09"
+  },
+  {
+    "url": "https://github.com/allure-framework/allure2/releases/tag/2.42.1",
+    "added": "2026-06-09"
+  },
+  {
+    "url": "https://byteiota.com/github-actions-windows-vs2026-migration/",
+    "added": "2026-06-09"
+  }
+]

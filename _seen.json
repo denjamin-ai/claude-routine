@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "url": "https://github.com/microsoft/playwright/releases/tag/v1.61.0",
+    "date": "2026-06-16"
+  },
+  {
+    "url": "https://github.com/pytest-dev/pytest/releases",
+    "date": "2026-06-16"
+  },
+  {
+    "url": "https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview/",
+    "date": "2026-06-16"
+  },
+  {
+    "url": "https://github.blog/changelog/2026-06-11-new-runner-images-in-public-preview/",
+    "date": "2026-06-16"
+  },
+  {
+    "url": "https://github.com/webdriverio/webdriverio/releases/tag/v9.28.0",
+    "date": "2026-06-16"
+  },
+  {
+    "url": "https://github.com/cypress-io/cypress/releases/tag/v15.17.0",
+    "date": "2026-06-16"
+  }
+]

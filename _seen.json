@@ -1,1 +1,22 @@
-[]
+[
+  "https://opentelemetry.io/blog/2026/go-compile-time-instrumentation-v1/",
+  "https://about.gitlab.com/blog/gitlab-duo-cli-generally-available/",
+  "https://code.claude.com/docs/en/changelog",
+  "https://www.techtimes.com/articles/321003/20260720/github-actions-gets-secure-default-ci-cd-backport-shuts-pwn-request-window.htm",
+  "https://github.com/robotframework/robotframework/releases/tag/v7.5b1",
+  "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-intelligent-tiering/",
+  "https://github.com/argoproj/argo-rollouts/releases/tag/v1.9.1",
+  "https://github.com/cucumber/cucumber-js/releases/tag/v13.2.0",
+  "https://discuss.circleci.com/t/breaking-changes-config-compilation-updates-july-17-2026/54719",
+  "https://github.com/akuity/kargo/releases/tag/v1.10.9",
+  "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities/",
+  "https://github.com/openai/codex/releases/tag/rust-v0.144.5",
+  "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+  "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available/",
+  "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update/",
+  "https://webflow.rootly.com/changelog/on-call-widget-24-hour-time-alerts-table",
+  "https://incident.io/changelog/announcing-service-now-now",
+  "https://www.cnews.ru/news/line/2026-07-17_rossijskij_rpa-rynok_perehodit",
+  "https://learn.microsoft.com/en-us/power-platform/important-changes-coming",
+  "https://cribl.io/news/cribl-acquires-cardinalops-to-expand-its-ai-platform-into-security-operations/"
+]
